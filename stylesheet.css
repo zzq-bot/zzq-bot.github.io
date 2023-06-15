@@ -1,0 +1,36 @@
+body {
+  margin-top:50px;
+  margin-bottom:60px;
+  font-family: Palatino, sans-serif;
+  line-height:155%;
+  font-size: 15px;
+}
+
+a {
+  color: #305b81;
+  text-decoration: none;
+}
+
+a:hover {
+  /* color:rgb(197, 139, 92); */
+  color:rgb(106, 0, 95);
+}
+
+heading {
+  font-size: 22px;
+}
+
+papertitle {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+name {
+  font-size: 32px;
+  line-height:130%;
+}
+
+note {
+  color: #080808a6;
+  font-size: 13px;
+}
